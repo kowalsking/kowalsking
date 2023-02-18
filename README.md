@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kowalsking&show_icons=true&theme=onedark)](https://github.com/kowalsking/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kowalsking&langs_count=8&&layout=compact)](https://github.com/kowalsking/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@888d7f7f-906d-4d4f-b68c-a8357d6b5d69)](https://github.com/kowalsking/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kowalsking)](https://github.com/kowalsking/github-readme-stats)
 
 <!--
 **kowalsking/kowalsking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
