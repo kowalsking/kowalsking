@@ -1,7 +1,10 @@
 ### Hi there 👋
 I'm creative developer from Ukraine 🇺🇦.
+
 I'm in love to visuals and aesthetic things, that's why my passion is WebGL, Generative Art and creative web.
+
 Visit my [website](https://kowalsking.dev/) to learn more.
+
 I'm still learning, so don't judge too harshly. 👨‍💻 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kowalsking&show_icons=true&theme=tokyonight)](https://github.com/kowalsking/github-readme-stats)
