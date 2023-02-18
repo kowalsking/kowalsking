@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm creative developer from Ukraine 🇺🇦.
 
-I'm in love to visuals and aesthetic things, that's why my passion is WebGL, Generative Art and creative web.
+I'm in love to visuals and aesthetic things, that's why my passion is GameDev, WebGL, Generative Art and creative web.
 
 Visit my [website](https://kowalsking.dev/) to learn more.
 
