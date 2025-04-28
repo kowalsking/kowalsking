@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kowalsking&langs_count=8&&layout=compact&theme=tokyonight)](https://github.com/kowalsking/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kowalsking&theme=tokyonight&langs_count=3)](https://github.com/kowalsking/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kowalsking&theme=tokyonight&langs_count=5)](https://github.com/kowalsking/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/888d7f7f-906d-4d4f-b68c-a8357d6b5d69.svg)](https://wakatime.com/@888d7f7f-906d-4d4f-b68c-a8357d6b5d69)
 
